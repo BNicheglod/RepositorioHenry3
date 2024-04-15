@@ -1,2 +1,1 @@
-# RepositorioHenry3
-Este es un repositorio de prueba del modulo 2 de Henry
+Prueba de como creear un repositorio y clonarlo desde gitghub a mi computadora.
